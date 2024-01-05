@@ -1,5 +1,5 @@
 **<h1 align="center">Hi 👋, I'm Esra</h1>**
-<p align="center">As a 20-year-old developer in training from Turkey, I'm on a mission to create mesmerizing digital experiences. Join me in the exciting world where innovation meets passion!</p>
+<p align="center">As a 20-years-old developer in training from Turkey, I'm on a mission to create mesmerizing digital experiences. Join me in the exciting world where innovation meets passion!</p>
 
 **<h2>💻 Current Initiatives</h2>**
 
