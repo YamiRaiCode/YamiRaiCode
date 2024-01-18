@@ -1,7 +1,7 @@
-**<h1 align="center">Hi 👋, I'm Esra</h1>**
-<p align="center">As a 20-years-old developer in training from Turkey, I'm on a mission to create mesmerizing digital experiences. Join me in the exciting world where innovation meets passion!</p>
+# **Hi 👋, I'm Esra**
+As a 20-years-old developer in training from Turkey, I'm on a mission to create mesmerizing digital experiences. Join me in the exciting world where innovation meets passion!
 
-**<h2>💻 Current Initiatives</h2>**
+## **💻 Current Initiatives**
 
 I'm currently learning front-end technologies such as JavaScript, React, Bootstrap, etc., and I'm eager to share my progress with you. You can follow my journey on [my reprository](https://github.com/YamiRaiii/learning-js-with-projects).
 
@@ -9,7 +9,7 @@ I'm currently learning front-end technologies such as JavaScript, React, Bootstr
 - I'm an early bird, consistently motivated, and continuously trying to adapt in the dynamic tech arena.
 - I'm willing to learn various tools and libraries to enrich my skill set.
 
-**<h2>🌱 Fun Facts</h2>**
+## **🌱 Fun Facts**
 
 - Drawing is one of my passions, just like coding.
 - Most of my skills, including drawing and coding, are self-taught.
