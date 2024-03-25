@@ -14,6 +14,8 @@ I'm currently learning front-end technologies such as JavaScript, React, Bootstr
 - Drawing is one of my passions, just like coding.
 - Most of my skills, including drawing and coding, are self-taught.
 - I'm a Hannibal fan. (also Mads Mikkelsen) 🥩
+
+##### [Portfolio](https://yamiraicode.github.io/portfolio/)
 <!--
 ### Hi, I'm Esra 👋
 
@@ -32,6 +34,7 @@ I'm currently learning front-end technologies such as JavaScript, React, Bootstr
 - Drawing is one of my passions, just like coding.
 - Most of my skills, including drawing and coding, are self-taught.
 - I'm a Hannibal fan. (also Mads Mikkelsen) 🥩
+
   -->
 <!--
 **YamiRaiii/YamiRaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
